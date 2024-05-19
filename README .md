@@ -12,3 +12,5 @@ The program will then calculate and display the distance between the two points.
 2. Navigate to the project directory in your terminal.
 4. Run the tests using the command `go test ./...'
 
+# Function
+ 1. Distance()-Calculate distance between two points using distance formulae
