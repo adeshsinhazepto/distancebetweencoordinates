@@ -22,3 +22,7 @@ The program will then calculate and display the distance between the two points.
 
 # Function
  1. Distance()-Calculate distance between two points using distance formulae
+ 2. NewPoint()- To make point as a struct
+
+ # Requirements
+This program is written in Go and requires a Go compiler to run.
